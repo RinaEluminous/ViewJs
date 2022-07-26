@@ -1,0 +1,113 @@
+{
+  "user": [
+    {
+      "name": "Test",
+      "email": "test@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "Test",
+      "email": "test@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "rina",
+      "password": "123456",
+      "email": "rina@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Rina Pagare",
+      "password": "123456",
+      "email": "pagare@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "testig recorsds",
+      "password": "123456",
+      "email": "test@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "test",
+      "password": "1234",
+      "email": "TEST",
+      "id": 6
+    },
+    {
+      "name": "bruce",
+      "password": "123456",
+      "email": "bruce@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 15
+    },
+    {
+      "name": "test",
+      "password": "123",
+      "email": "test@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "rehana",
+      "password": "123456",
+      "email": "rehana@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "rayana",
+      "password": "123456",
+      "password_confirmation": "123456",
+      "email": "rayana@gmail.com",
+      "id": 18
+    }
+  ]
+}
